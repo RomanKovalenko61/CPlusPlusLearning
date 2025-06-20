@@ -3,4 +3,4 @@ project(CPlusPlus)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(CPlusPlus heron.cpp)
+add_executable(CPlusPlus input.cpp)
